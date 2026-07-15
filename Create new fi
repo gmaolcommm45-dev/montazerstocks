@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>الدفع</title>
+
+<style>
+body{
+font-family:Arial,sans-serif;
+background:#f5f5f5;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+
+.box{
+background:#fff;
+padding:30px;
+border-radius:12px;
+width:320px;
+box-shadow:0 0 10px rgba(0,0,0,.2);
+}
+
+input{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+button{
+width:100%;
+padding:12px;
+background:#28a745;
+color:white;
+border:none;
+border-radius:8px;
+font-size:18px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="box">
+<h2>الدفع بالماستر كارد</h2>
+
+<input type="text" placeholder="اسم حامل البطاقة">
+<input type="text" placeholder="رقم البطاقة">
+<input type="text" placeholder="MM/YY">
+<input type="text" placeholder="CVV">
+
+<button>ادفع الآن</button>
+
+</div>
+
+</body>
+</html>
