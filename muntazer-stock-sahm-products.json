@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MS-SAHM-001",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-002",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-003",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-004",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-005",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-006",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-007",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-008",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-009",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-010",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-011",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  },
+  {
+    "id": "MS-SAHM-012",
+    "name": "سهم",
+    "price": {
+      "min": 245500,
+      "max": 250000,
+      "currency": "IQD"
+    },
+    "price_display": "245,500 - 250,000 د.ع",
+    "description": "سهم",
+    "category": "أسهم",
+    "stock": 1,
+    "image": "sahm.jpg"
+  }
+]
